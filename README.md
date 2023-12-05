@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaadBajwa659
-- 👀 I’m interested in html
-- 🌱 I’m currently learning css
+- 👀 I’m interested in html, css and js
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
