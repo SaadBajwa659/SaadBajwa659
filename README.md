@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaadBajwa659
 - 👀 I’m interested in html, css, js and react 
 - 🌱 I’m almost done with front-end-development
-- 💞️ I’m looking to collaborate on...
+- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach on this gmail account : saad23122002@gmail.com
 
 <!---
